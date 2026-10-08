@@ -1,4 +1,4 @@
-# Storefront UI
+# Amazon-Inspired Storefront UI
 
 A static storefront inspired by Amazon, built to practice HTML and CSS layouts.
 
@@ -14,7 +14,7 @@ HTML · CSS
 
 ## Run locally
 
-Open index.html in a browser.
+Open `index.html` in a browser. The repository contains a static HTML/CSS interface.
 
 ## Project status
 
